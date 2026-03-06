@@ -1,0 +1,51 @@
+body{
+  background-image: url('./panda.bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  min-width: 300px;
+
+}
+#root {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#css {
+background-color: rgb(96, 79, 59);
+}
+h1{
+  font-size: 40px;
+}
+#container{
+   display: inline-block;           
+    justify-content: center;      
+    align-items: center;          
+   min-height: 150px;
+   min-width: 250px;
+    border: transparent;
+    box-shadow: 10px;
+    border-radius: 30px;
+    margin: 100px;
+}
+#btn1{
+  height: 30px;
+  width: 90px;
+  background-color: green;
+  border-radius: 5px;
+  border: 2px solid rgb(117, 153, 117);
+  color:white;
+  margin: 20px;
+}
+#btn2{
+  height: 30px;
+  width: 90px;
+  background-color:red;
+  border-radius: 5px;
+  border: 2px solid rgb(153, 117, 117);
+  color: white;
+  margin: 20px;
+}
