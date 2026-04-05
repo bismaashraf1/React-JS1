@@ -11,6 +11,7 @@ function Counter(){
   }
    const Decrease=()=>{
     
+    
     if(count >0){
        setCount(count - 1); 
     }
