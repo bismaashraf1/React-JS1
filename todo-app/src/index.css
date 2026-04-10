@@ -46,6 +46,7 @@ h1{
   width: 110px;
   margin: 20px;
    border-radius: 5px;
+   background-color: rgb(249, 231, 234);
 }
 input{
   height: 30px;
