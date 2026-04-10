@@ -1,0 +1,69 @@
+body{
+  background-image: url(https://backiee.com/static/wallpapers/560x315/279327.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width:100%;
+}
+#container{
+  display:inline-block ;
+  justify-content: center;
+  align-content: center;
+  border-color: 2px solid black;
+  padding: 40px;
+  height: 100%;
+  width: 100%;
+}
+#container1{
+  background-color: rgb(206, 209, 212);
+  display: inline;
+}
+h1{
+  height: 70px;
+  width: auto;
+  background-image: url(https://wallpapercave.com/wp/wp9094045.jpg);
+  object-fit: cover;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#btn{
+  height: 40px;
+  width: 110px;
+  margin: 20px;
+  border-radius: 5px;
+}
+#btn1{
+  height: 40px;
+  width: 110px;
+  margin: 20px;
+   border-radius: 5px;
+   background-color: rgb(249, 231, 234);
+}
+#btn2{
+  height: 40px;
+  width: 110px;
+  margin: 20px;
+   border-radius: 5px;
+}
+input{
+  height: 30px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  margin: 20px;
+}
+#container2{
+   display:inline-block ;
+  justify-content: center;
+  align-content: center;
+  height: 100%;
+  width: 100%;
+}
+li{
+  list-style-type:none;
+  
+}
